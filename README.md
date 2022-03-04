@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/anhtien228/anhtien228/main/Assets/elden_ring.png)
+![Header image](https://raw.githubusercontent.com/anhtien228/anhtien228/main/elden_Ring.png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 #### ABOUT ME
 I'm a senior at Ho Chi Minh City University of Technology.<br>
