@@ -16,7 +16,7 @@ Contact me on Linkedin.
 
 #### BIOGRAPHY
 - 🔭 I’m currently working on **My Thesis** and **Coursera courses**
-- 🌱 I’m currently learning **Machine Learning** & **open-source** libraries
+- 🌱 I’m currently learning **Machine Learning**, **Azure Services** and sharpening **Python skills**
 - 💼 I’m looking for job oppoturnities as **Data Scientist** (Internship/Entry level)
 - 💻 Educational works: [Music Recommender](https://rythm-ktm2.herokuapp.com), [DIVEINTOCODE Assignments](https://github.com/anhtien228/diveintocode-ml)
 - ⌨️ I can work with: ![Python Badge](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![CPP Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) ![CSS Badge](	https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white) ![Photoshop Badge](https://aleen42.github.io/badges/src/photoshop.svg)
