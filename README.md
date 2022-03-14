@@ -2,7 +2,8 @@
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 #### I'm a senior at Ho Chi Minh City University of Technology.<br>
 My major is Computer Engineering and the subjects primarily focus on the embedded system,
-micro-controller or Internet of Things. However, I have switched my career path to Data Science where
+micro-controller or Internet of Things.
+However, I have switched my career path to Data Science where
 I found Machine Learning and other complex techniques are very interesting
 
 Contact me on Linkedin.
