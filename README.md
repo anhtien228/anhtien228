@@ -1,6 +1,6 @@
 ![Header image](https://i.imgur.com/yj5rVKB.png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-#### Anh-Tien Doan senior at Ho Chi Minh City University of Technology.<br>
+#### Anh-Tien Doan - Senior at Ho Chi Minh City University of Technology.<br>
 My major is Computer Engineering and the subjects of it primarily focus on the embedded system,
 micro-controller or Internet of Things.
 However, I have switched my career path to Data Science where
