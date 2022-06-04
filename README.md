@@ -1,6 +1,6 @@
 ![Header image](https://i.imgur.com/yj5rVKB.png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-#### I'm a senior at Ho Chi Minh City University of Technology.<br>
+#### Anh-Tien Doan senior at Ho Chi Minh City University of Technology.<br>
 My major is Computer Engineering and the subjects of it primarily focus on the embedded system,
 micro-controller or Internet of Things.
 However, I have switched my career path to Data Science where
@@ -19,7 +19,7 @@ Contact me on Linkedin.
 - 🌱 I’m currently learning **Machine Learning**, **Azure Services** and sharpening **Python skills** -->
 - I’m looking for job oppoturnities as **Data Scientist** (Internship/Entry level)
 - Educational works: [Music Recommender](https://rythm-ktm2.herokuapp.com), [DIVEINTOCODE Assignments](https://github.com/anhtien228/diveintocode-ml)
-- I can work with: ![Python Badge](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![CPP Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) ![CSS Badge](	https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white) ![Photoshop Badge](https://aleen42.github.io/badges/src/photoshop.svg)
+- I can work with: ![Python Badge](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![TensorFlow](	https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![CPP Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white) ![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 - I used to be a graphic designer, I can work on UI or design mockup
 - Free time activities: Coding on Leetcode, watching movies
 <!-- - 🌍 I'm mostly active on **Linkedin** and **Facebook** -->
