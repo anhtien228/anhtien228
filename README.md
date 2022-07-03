@@ -18,7 +18,7 @@ Contact me on Linkedin.
 <!-- - 🔭 I’m currently working on **My Thesis** and **Coursera courses**
 - 🌱 I’m currently learning **Machine Learning**, **Azure Services** and sharpening **Python skills** -->
 - I’m looking for job oppoturnities as **Data Scientist** (Internship/Entry level)
-- Educational works: [Music Recommender](https://rythm-ktm2.herokuapp.com), [DIVEINTOCODE Assignments](https://github.com/anhtien228/diveintocode-ml)
+- Educational works: [Music Recommender](https://rythm-ktm2.herokuapp.com), [DIVEINTOCODE Assignments](https://github.com/anhtien228/diveintocode-ml) [EfficientNetV2 Investigation](https://github.com/anhtien228/diveintocode-ml-graduation)
 - I can work with: ![Python Badge](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![TensorFlow](	https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![CPP Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white) ![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 - I used to be a graphic designer, I can work on UI or design mockup
 - Free time activities: Coding on Leetcode, watching movies
