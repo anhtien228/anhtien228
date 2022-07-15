@@ -3,8 +3,7 @@
 #### Anh-Tien Doan - Senior at Ho Chi Minh City University of Technology.<br>
 My major is Computer Engineering and the subjects of it primarily focus on the embedded system,
 micro-controller or Internet of Things.
-However, I have switched my career path to Data Science where
-I found Machine Learning and other complex techniques are very interesting
+However, I have switched my career path to Data Science, Machine/Deep Learning where I found out the concepts, the algorithms and the usages are very interesting and innovative
 
 Contact me on Linkedin.
 <!-- <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'> -->
