@@ -8,7 +8,7 @@ However, I have switched my career path to Data Science, Machine/Deep Learning w
 Contact me on Linkedin.
 <!-- <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'> -->
 
-[![Facebook Badge](https://img.shields.io/badge/-d.atien228-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/d.atien228&target=_blank)](https://www.facebook.com/d.atien228/)
+[![Facebook Badge](https://img.shields.io/badge/-d.atien228-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/d.atien228/)](https://www.facebook.com/d.atien228/)
 [![Linkedin Badge](https://img.shields.io/badge/-doananhtien-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doananhtien/)](https://www.linkedin.com/in/doananhtien/)
 [![Instagram Badge](https://img.shields.io/badge/-meomaykurooo-e4405f?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/meomaykurooo/)](https://www.instagram.com/meomaykurooo/)
 [![Gmail Badge](https://img.shields.io/badge/-mailto:d.atien228@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:d.atien228@gmail.com)](mailto:d.atien228@gmail.com)
