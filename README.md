@@ -9,10 +9,10 @@ I found Machine Learning and other complex techniques are very interesting
 Contact me on Linkedin.
 <!-- <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'> -->
 
-[![Facebook Badge](https://img.shields.io/badge/-d.atien228-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/d.atien228/)](https://www.facebook.com/d.atien228/)){:target="_blank"}
-[![Linkedin Badge](https://img.shields.io/badge/-doananhtien-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doananhtien/)](https://www.linkedin.com/in/atien228/)){:target="_blank"}
-[![Instagram Badge](https://img.shields.io/badge/-meomaykurooo-e4405f?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/meomaykurooo/)](https://www.instagram.com/meomaykurooo/)){:target="_blank"}
-[![Gmail Badge](https://img.shields.io/badge/-mailto:d.atien228@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:d.atien228@gmail.com)](mailto:d.atien228@gmail.com)){:target="_blank"}
+[![Facebook Badge](https://img.shields.io/badge/-d.atien228-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/d.atien228/)](https://www.facebook.com/d.atien228/){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-doananhtien-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doananhtien/)](https://www.linkedin.com/in/atien228/){:target="_blank"}
+[![Instagram Badge](https://img.shields.io/badge/-meomaykurooo-e4405f?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/meomaykurooo/)](https://www.instagram.com/meomaykurooo/){:target="_blank"}
+[![Gmail Badge](https://img.shields.io/badge/-mailto:d.atien228@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:d.atien228@gmail.com)](mailto:d.atien228@gmail.com){:target="_blank"}
 
 #### BIOGRAPHY
 <!-- - 🔭 I’m currently working on **My Thesis** and **Coursera courses** -->
