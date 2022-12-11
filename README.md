@@ -5,7 +5,7 @@ My major is Computer Engineering and the subjects of it primarily focus on the e
 micro-controller or Internet of Things.
 However, I have switched my career path to Data Science, Machine/Deep Learning where I found out the concepts, the algorithms and the usages are very interesting and innovative
 
-My [portfolio](https://anhtien228.github.io.). Contact me on Linkedin or via email.
+My [portfolio](https://anhtien228.github.io.). Contact me on [Linkedin](https://www.linkedin.com/in/doananhtien/) or via [email](mailto:d.atien228@gmail.com).
 <!-- <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'> -->
 
 [![Facebook Badge](https://img.shields.io/badge/-d.atien228-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/d.atien228/)](https://www.facebook.com/d.atien228/)
