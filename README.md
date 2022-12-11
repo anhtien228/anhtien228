@@ -17,7 +17,7 @@ My [portfolio](https://anhtien228.github.io.). Contact me on Linkedin or via ema
 <!-- - 🔭 I’m currently working on **My Thesis** and **Coursera courses** -->
 - I’m currently working as a Data Scientist at Home Credit, Underwriting Department.
 - Educational works: [Music Recommender](https://rythm-ktm2.herokuapp.com) | [DIVEINTOCODE Assignments](https://github.com/anhtien228/diveintocode-ml) | [EfficientNetV2 Model Investigation](https://github.com/anhtien228/diveintocode-ml-graduation) | [Text Summarizer](https://huggingface.co/spaces/datien228/text-summarizer)
-- I can work with: ![Python Badge](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![TensorFlow](	https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white) ![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+- I can work with: Python, Jupyter Notebook, Git, Tensorflow, Web Design (HTML, CSS, JS) and Adobe Photoshop.
 - I used to be a graphic designer, I can work on UI or design mockup
 <!-- - 🌍 I'm mostly active on **Linkedin** and **Facebook** -->
 <!-- - ⚡ Fun fact: I'm a hardcore fan of Mecha film/anime, specifically Gundam -->
