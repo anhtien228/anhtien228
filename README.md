@@ -12,9 +12,9 @@ I’m currently working as a **Modeling Data Analyst** at **Home Credit Vietnam*
 #### **Find me at**
 Learn more about me through [anhtien228.github.io](https://anhtien228.github.io). You can contact me via:
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-doananhtien-0078D4?style=for-the-badge&logo=Linkedin&labelColor=%233a3a3a&logoColor=white)](https://www.linkedin.com/in/doananhtien/)
-[![Outlook Badge](https://img.shields.io/badge/Work-tien.doana1%40homecredit.vn-0078D4?style=for-the-badge&logo=microsoft-outlook&labelColor=%233a3a3a&logoColor=white)](mailto:tien.doana1@homecredit.vn)
-[![Gmail Badge](https://img.shields.io/badge/Personal-d.atien228@gmail.com-d14836?style=for-the-badge&logo=Gmail&labelColor=%233a3a3a&logoColor=white)](mailto:d.atien228@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-doananhtien-0078D4?style=flat&logo=Linkedin&labelColor=%233a3a3a&logoColor=white)](https://www.linkedin.com/in/doananhtien/)
+[![Outlook Badge](https://img.shields.io/badge/Work-tien.doana1%40homecredit.vn-0078D4?style=flat&logo=microsoft-outlook&labelColor=%233a3a3a&logoColor=white)](mailto:tien.doana1@homecredit.vn)
+[![Gmail Badge](https://img.shields.io/badge/Personal-d.atien228@gmail.com-d14836?style=flat&logo=Gmail&labelColor=%233a3a3a&logoColor=white)](mailto:d.atien228@gmail.com)
 
 #### **Biography**
 - 💻 Working (and learning) on credit risk scoring.
