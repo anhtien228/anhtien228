@@ -22,7 +22,7 @@ Learn more about me through [anhtien228.github.io](https://anhtien228.github.io)
 
 #### **Biography**
 - 💻 Working (and learning) on credit risk scoring.
-- 🎥 Watching Hospital Playlist (Netflix)
+- 🎥 Watching Gen V (Amazon) and Loki (Disney+)
 - Educational works: [DIVEINTOCODE Assignments](https://github.com/anhtien228/diveintocode-ml) | [EfficientNetV2 Model Investigation](https://github.com/anhtien228/diveintocode-ml-graduation) | [Text Summarizer](https://huggingface.co/spaces/datien228/text-summarizer)
 - I can work with: **Python, Jupyter Notebook, Git, Tensorflow, Web Design (HTML, CSS, JS) and Adobe Photoshop.**
 - I used to be a graphic designer, I can work on UI or design mockup
