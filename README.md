@@ -16,11 +16,9 @@ Learn more about me through [anhtien228.github.io](https://anhtien228.github.io)
 [![Gmail Badge](https://img.shields.io/badge/Personal-d.atien228@gmail.com-d14836?style=flat-square&logo=Gmail&labelColor=%231a1a1a&logoColor=white)](mailto:d.atien228@gmail.com)
 
 #### **Biography**
-- 💻 Working on credit risk scoring and relevance knowledge in Data Science.
-- 🎥 Watching Gen V (Amazon) and Loki (Disney+)
+- 💻 Working on credit risk scoring and relevance knowledge in Data Science and ML.
 - Educational works: [DIVEINTOCODE Assignments](https://github.com/anhtien228/diveintocode-ml) | [EfficientNetV2 Model Investigation](https://github.com/anhtien228/diveintocode-ml-graduation) | [Text Summarizer](https://huggingface.co/spaces/datien228/text-summarizer)
-- I can work with: **Python, SQL, Oracle, Jupyter Notebook, Git, Tensorflow, Web Design (HTML, CSS, JS) and Adobe Photoshop.**
-- I used to be a graphic designer, I can work on UI or design mockup
+- Technical skills: **Python, SQL, Oracle, Jupyter Notebook, Git, Tensorflow, Web Design (HTML, CSS, JS) and Adobe Photoshop.**
 
 #### **At the present**
 I'm aligning myself to the roadmap of AI and Data Scientist to reinforce what I have learnt before or from on-the-job projects, while also seeking for the knowledge that I may have missed out and new technologies.
