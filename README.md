@@ -2,7 +2,8 @@
 
 <img align="right" width="300" src="https://r-charts.com/images/gif/ggcats.gif">
 
-An art-and-science enthusiast who passionate in technology, AI/ML and data-driven solutions. 
+An art-and-science enthusiast who passionate  
+in technology, AI/ML and data-driven solutions. 
 
 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/doananhtien/) or contact me at [email address](mailto:d.atien228@gmail.com).
 
