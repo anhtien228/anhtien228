@@ -33,5 +33,5 @@ Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/doananhti
 
 Favorite assistant and whiteboard
 
-![Gemini](https://img.shields.io/badge/Google%20Gemini-3748a9?style=for-the-badge&logo=googlebard&logoColor=fff)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-3748a9?style=for-the-badge&logo=googlegemini&logoColor=fff)
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
