@@ -10,7 +10,6 @@ Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/doananhti
 ### **Biography**
 
 - 🧑‍💻 Working on credit risk scoring and credit card projects.
-- ✍️ Researching on applied Deep Learning in business contexts.
 - Love photography, enjoy rock/pop punk/indie music.
 - All-time-favorite movie: Interstellar (2024) by Christopher Nolan
 
