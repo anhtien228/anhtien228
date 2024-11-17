@@ -1,6 +1,6 @@
 ## **Hi I'm Tien ✨**
 
-<img align="right" width="200" src="cat.jpeg">
+<img align="right" width="250" src="cat.png">
 
 I'm a Data Scientist based Ho Chi Minh City, Vietnam 🇻🇳
 
