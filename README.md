@@ -1,6 +1,6 @@
 ## **Hi I'm Tien ✨**
 
-<img align="right" width="250" src="cat.png">
+<img align="right" width="240" src="cat.png">
 
 I'm a Data Scientist based Ho Chi Minh City, Vietnam 🇻🇳
 
@@ -10,7 +10,7 @@ I'm a Data Scientist based Ho Chi Minh City, Vietnam 🇻🇳
 
 Feel free to connect with me on [Linkedin @ doananhtien](https://www.linkedin.com/in/doananhtien/) or send me an [Email](mailto:d.atien228@gmail.com).
 
-## A byte of me
+## A “byte” of me
 
 Since 2020, I've pursued the machine learning/deep learning studies despite of my major in Computer Engineering. After graduating, I've started my first official job in a consumer finance company, and my main works have been on risk modeling using traditional/state-of-the-art machine learning models as well as other data science/data engineering tech stack.
 
