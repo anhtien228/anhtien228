@@ -30,3 +30,6 @@ At the moment, I'm trying to devote more of my time for personal growth, and per
 ![Apache Spark Badge](https://img.shields.io/badge/PySpark-ee2e0b?logo=apachespark&logoColor=fff&style=for-the-badge)
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter-f76906?logo=jupyter&logoColor=fff&style=for-the-badge)
 ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-ffaa00?logo=scikitlearn&logoColor=fff&style=for-the-badge)
+
+### Playground
+![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/anhtien228?theme=neutral)
