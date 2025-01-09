@@ -32,4 +32,8 @@ At the moment, I'm trying to devote more of my time for personal growth, and per
 ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-ffaa00?logo=scikitlearn&logoColor=fff&style=for-the-badge)
 
 ### Playground
+
+Leetcode
+
+
 ![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/anhtien228?theme=neutral)
