@@ -2,7 +2,7 @@
 
 <img align="right" width="240" src="cat.png">
 
-I'm a Data Scientist based Ho Chi Minh City, Vietnam 🇻🇳
+I'm a Data Scientist based in Ho Chi Minh City, Vietnam 🇻🇳
 
 🧑‍💻 I worked and accumulated my experience in the field of credit scoring.
 
