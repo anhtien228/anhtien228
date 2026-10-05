@@ -1,6 +1,6 @@
 ## Hi I'm Tien ✨
 
-<img align="right" width="240" src="cat.png">
+<img align="right" width="220" src="cat.png">
 
 🧑‍💻 I'm a Senior Data Scientist at Home Credit Vietnam, based in Ho Chi Minh City, Vietnam.
 
