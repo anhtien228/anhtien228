@@ -1,39 +1,23 @@
-## **Hi I'm Tien ✨**
+## Hi I'm Tien ✨
 
 <img align="right" width="240" src="cat.png">
 
-I'm a Data Scientist based in Ho Chi Minh City, Vietnam 🇻🇳
+🧑‍💻 I'm a Senior Data Scientist at Home Credit Vietnam, based in Ho Chi Minh City, Vietnam.
 
-🧑‍💻 I worked and accumulated my experience in the field of credit scoring.
+I specialize in **credit risk scoring** and **machine learning**, building reliable risk models that power real-life decisions and optimizing the data pipelines for analytical works.
 
-🎞️ All-time favorite movie: Interstellar (2014) by Christopher Nolan.
+On my path to becoming an expert excels in both data science and engineering.
 
-Feel free to connect with me on [Linkedin @ doananhtien](https://www.linkedin.com/in/doananhtien/) or send me an [Email](mailto:d.atien228@gmail.com).
+## A "byte" of me
 
-## A “byte” of me
+🎓 Bachelor in Computer Engineering, HCMC University of Technology.
 
-Since 2020, I've pursued the machine learning/deep learning studies despite of my major in Computer Engineering. After graduating, I've started my first official job in a consumer finance company, and my main works have been on risk modeling using traditional/state-of-the-art machine learning models as well as other data science/data engineering tech stack.
+I've been exploring machine learning and deep learning since during my university lifetime, bringing my engineering background into credit risk modeling and data science Outside work, I make time for learning, personal growth, and writing.
 
-At the moment, I'm trying to devote more of my time for personal growth, and perhaps writing a blog :)
+Me when I'm not in corporate mode:
+- 🎧 groove with rock and jazz music
+- 📷 love film photography
+- 📖 exploring the technology and interesting knowledge
+- 🎞️ enjoy movies; all-time favorite: *Interstellar* (2014), directed by Christopher Nolan.
 
-### Language & Tools
-
-![Python Badge](https://img.shields.io/badge/Python-3748a9?logo=python&logoColor=fff&style=for-the-badge)
-![pandas Badge](https://img.shields.io/badge/pandas-4033b0?logo=pandas&logoColor=fff&style=for-the-badge)
-![NumPy Badge](https://img.shields.io/badge/NumPy-602eb8?logo=numpy&logoColor=fff&style=for-the-badge)
-![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-862abf?logo=plotly&logoColor=fff&style=for-the-badge)
-![GitLab Badge](https://img.shields.io/badge/GitLab-b225c7?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-ce20b7?logo=git&logoColor=fff&style=for-the-badge)
-
-![PL/SQL Badge](https://img.shields.io/badge/Oracle%20SQL-de165d?style=for-the-badge&logo=oracle&logoColor=white)
-![PyTorch Badge](https://img.shields.io/badge/PyTorch-e61126?logo=pytorch&logoColor=fff&style=for-the-badge)
-![Apache Spark Badge](https://img.shields.io/badge/PySpark-ee2e0b?logo=apachespark&logoColor=fff&style=for-the-badge)
-![Jupyter Badge](https://img.shields.io/badge/Jupyter-f76906?logo=jupyter&logoColor=fff&style=for-the-badge)
-![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-ffaa00?logo=scikitlearn&logoColor=fff&style=for-the-badge)
-
-### Playground
-
-Leetcode
-
-
-![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/anhtien228?theme=neutral)
+Feel free to connect with me on [Linkedin @ doananhtien](https://www.linkedin.com/in/doananhtien/) or send me an [email](mailto:d.atien228@gmail.com).
